@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Instructions.pdf
+*.bib
+references.log
+*.gz(busy)
+Udacity Rubric.pdf
+*.aux
